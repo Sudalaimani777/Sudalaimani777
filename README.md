@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#EF93C4;">Houria</span>
+  Hey there, I'm <span style="color:#EF93C4;">Sudalaimani</span>
 </h1>
 
 <p align="center">
