@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sudalaimani777?style=for-the-badge&logo=github&label=Followers&color=051275" />
   <img src="https://img.shields.io/github/stars/Sudalaimani777?style=for-the-badge&logo=github&label=Stars&color=051275" />
-  <img src="https://komarev.com/ghpvc/?username=Sudalaimani777&style=for-the-badge&color=EF93C4"/>
+  <img src="https://komarev.com/ghpvc/?username=Sudalaimani777&style=for-the-badge&color=051275"/>
 </p>
 
 
@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sudalaimani777&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=Sudalaimani777&hide_border=true&background=0D1117&ring=051275&fire=051275&currStreakLabel=051275&sideLabels=051275&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudalaimani777&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudalaimani777&bg_color=0D1117&color=051275&line=051275&point=051275&area=true&area_color=051275&hide_border=true"/>
 
 </p>
 
@@ -122,5 +122,5 @@ To enable the snake animation:
 See you in the next commit 🌸
 </p>
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:EF93C4,100:D16BA5&height=140&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:051275,50:051275,100:051275&height=140&section=footer"/>
 </p>
