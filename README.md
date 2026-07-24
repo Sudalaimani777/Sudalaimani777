@@ -91,27 +91,15 @@ To enable the snake animation:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/houria-hasbellaoui">
+<a href="https://www.linkedin.com/in/sudalaimani-kannan-b56b422a0/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/HHourr68570">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/hourycodes">
+<a href="https://www.instagram.com/sudalaimani_777/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.tiktok.com/@hourycodes">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@hourycodes">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:houriahasbell@gmail.com">
+<a href="mailto:sudalaimani05112003@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -119,7 +107,7 @@ To enable the snake animation:
 
 
 <p align="center" >
-See you in the next commit 🌸
+See you in the next commit </>
 </p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:051275,50:051275,100:051275&height=140&section=footer"/>
