@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=28&duration=3500&pause=1000&color=F8BBD0&font=Josefin+Sans&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Builder;Content+Creator;Open+Source+Enthusiast;Problem+Solver"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=051275&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Builder;Problem+Solver;Open+Source+Enthusiast)](https://git.io/typing-svg"/>
 </p>
 
 <p align="center">
