@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: Houria-hs
+          github_user_name: Sudalaimani777
           outputs: |
            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FFB7D5&color_dots=%230D1117,%23291B2C,%236F2D5C,%23D16BA5,%23F8BBD0
 

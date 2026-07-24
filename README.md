@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Sudalamani777?style=for-the-badge&logo=github&label=Followers&color=051275" />
-  <img src="https://img.shields.io/github/stars/Sudalamani777?style=for-the-badge&logo=github&label=Stars&color=051275" />
-  <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=EF93C4"/>
+  <img src="https://img.shields.io/github/followers/Sudalaimani777?style=for-the-badge&logo=github&label=Followers&color=051275" />
+  <img src="https://img.shields.io/github/stars/Sudalaimani777?style=for-the-badge&logo=github&label=Stars&color=051275" />
+  <img src="https://komarev.com/ghpvc/?username=Sudalaimani777&style=for-the-badge&color=EF93C4"/>
 </p>
 
 
@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Houria-hs&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com?user=Sudalaimani777&hide_border=true&background=0D1117&ring=EF93C4&fire=EF93C4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
 
 </p>
 
@@ -65,7 +65,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Houria-hs&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudalaimani777&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=F8BBD0&hide_border=true"/>
 
 </p>
 
@@ -74,7 +74,7 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/Houria-hs/Houria-hs/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Sudalaimani777/Sudalaimani777/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
