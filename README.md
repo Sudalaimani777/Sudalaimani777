@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sudalaimani777/Sudalaimani777/blob/Project/art/header-dark.png">
     <img src="https://raw.githubusercontent.com/Houria-hs/Houria-hs/main/art/header-light.png" alt="Houria Hasbellaoui Banner" width="100%">
   </picture>
 </p>
@@ -38,7 +38,7 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://github.com/user-attachments/assets/03d1122a-3019-4b8f-ba2e-c9d402b1437e" width="160" alt="Cute developer girl" />
+<img src="https://github.com/Sudalaimani777/Sudalaimani777/blob/Project/art/Profile_Card.png" width="160" alt="Cute developer boy" />
 
 </td>
 
