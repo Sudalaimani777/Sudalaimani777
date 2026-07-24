@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Sudalaimani777/Sudalaimani777/blob/Project/art/profile-banner.png">
-    <img src="https://github.com/Sudalaimani777/Sudalaimani777/blob/Project/art/profile-banner.png" alt="Houria Hasbellaoui Banner" width="100%">
+    <img src="https://github.com/Sudalaimani777/Sudalaimani777/blob/Project/art/profile-banner.png" alt="Sudalaimani Banner" width="100%">
   </picture>
 </p>
 
 <h1 align="center">
-  Hey there, I'm <span style="color:#EF93C4;">Sudalaimani</span>
+  Hey there, I'm <span style="color:#051275;">Sudalaimani</span>
 </h1>
 
 <p align="center">
