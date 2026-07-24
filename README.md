@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Houria-hs?style=for-the-badge&logo=github&label=Followers&color=EF93C4" />
-  <img src="https://img.shields.io/github/stars/Houria-hs?style=for-the-badge&logo=github&label=Stars&color=EF93C4" />
+  <img src="https://img.shields.io/github/followers/Sudalamani777?style=for-the-badge&logo=github&label=Followers&color=051275" />
+  <img src="https://img.shields.io/github/stars/Sudalamani777?style=for-the-badge&logo=github&label=Stars&color=051275" />
   <img src="https://komarev.com/ghpvc/?username=Houria-hs&style=for-the-badge&color=EF93C4"/>
 </p>
 
