@@ -74,7 +74,7 @@
 <h2 align="center"> 🐍 Contribution Graph </h2>
 
 <p align="center">
-  <img src="https://github.com/Sudalaimani777/Sudalaimani777/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Sudalaimani777/Sudalaimani777/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 <!--
