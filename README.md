@@ -49,7 +49,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,postgres,mongodb,tailwind,git,github,docker,vscode,figma,git,github,vscode,figma,postman,linux,bash,npm,pnpm,yarn&perline=16"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,tailwind,git,github,vscode,figma,git,github,vscode,figma,postman,npm,pnpm,yarn&perline=16"/>
 </p>
 
 
