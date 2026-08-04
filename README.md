@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sudalaimani777&hide_border=true&background=0D1117&ring=051275&fire=051275&currStreakLabel=051275&sideLabels=051275&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" />
+<img src="https://streak-stats.demolab.com/?user=Sudalaimani777&hide_border=true&background=0D1117&ring=051275&fire=051275&currStreakLabel=051275&sideLabels=051275&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Streak Stats" />
 
 </p>
 
