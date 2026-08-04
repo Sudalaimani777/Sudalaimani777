@@ -107,7 +107,7 @@ To enable the snake animation:
 
 
 <p align="center" >
-See you in the next commit 🧭🍁🕯☯㊙🕸
+See you in the next commit 🍁 🕸
 </p>
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:051275,50:051275,100:051275&height=140&section=footer"/>
